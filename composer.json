@@ -1,0 +1,19 @@
+{
+    "name": "zubair/url_reduce",
+    "description": "this is used to reduce urls to short codes",
+    "require": {
+        "php": "7.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zubair\\UrlReduce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zubair"
+        }
+    ],
+    "minimum-stability": "dev"
+}
